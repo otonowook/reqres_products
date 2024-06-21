@@ -17,7 +17,7 @@ spec:
       containers: 
         - 
           name: "product"
-          image: "ungacr.azurecr.io/product:latest"
+          image: "otonowook/welcome:v1"
           ports: 
             - 
               containerPort: 80
